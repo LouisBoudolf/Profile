@@ -1,6 +1,5 @@
 
-<img width="100" height="100" src="https://raw.githubusercontent.com/LouisBoudolf.github.io/master/Louis.jpg" />
-<img width="400" height="400" src="https://LouisBoudolf/LouisBoudolf.github.io/master/Louis.jpg" />
+<img width="400" height="400" src="https://raw.githubusercontent.com/LouisBoudolf/louisboudolf.github.io/master/Louis.jpg" />
 
   - Gender: Male
   - Ethnicity: White
