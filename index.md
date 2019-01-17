@@ -1,6 +1,6 @@
 
 
-![Louis](https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg)
+![Louis](https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg =100x20)
 
 
   - Gender: Male
