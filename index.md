@@ -1,7 +1,7 @@
 
-<img width="400" height="400" src="https://raw.githubusercontent.com/LouisBoudolf/louisboudolf.github.io/master/Louis.jpg" />
-![](https://raw.githubusercontent.com/LouisBoudolf/profile/master/Louis.jpg)
-https://raw.githubusercontent.com/LouisBoudolf/profile/master/Louis.jpg
+<img width="100" height="100" src="https://raw.githubusercontent.com/LouisBoudolf/profile/master/Louis.jpg" />
+
+
 
   - Gender: Male
   - Ethnicity: White
