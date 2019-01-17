@@ -15,7 +15,7 @@ Po Box 5103. Delano,Ca 93216
   - My Religion: Not really religious
   - Highest Level of Education: Highschool Graduate
   - Hometown: Newark, CA 
-  - Hair:Brown hair
+  - Hair: Brown hair
   - Eyes: Steel Blue
   - Weight: 165 Lbs
   - Height: 5’11”
@@ -38,5 +38,5 @@ Po Box 5103. Delano,Ca 93216
 
   - Incarcerated Since 2010
   - Inmate Release Date 2036
-  - Incarcerated For robbery and assault
+  - Incarcerated For Robbery and Assault
 
