@@ -1,7 +1,6 @@
 
 
-[Link](url) and ![Image](src)
-https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg
+![Louis](https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg)
 
 
   - Gender: Male
@@ -18,7 +17,7 @@ https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg
   - Weight: 165 Lbs
   - Height: 5’11”
   
-  # things I like:  
+  **things I like:**  
     Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
       
  **things I don't like:**  
@@ -32,7 +31,7 @@ https://github.com/LouisBoudolf/profile/blob/master/Louis.jpg
   - Favorite Book: Any fantasy or Horror 
   
   
-  # Incarceration Details:
+  **Incarceration Details:**
 
   - Incarcerated Since 2010
   - Inmate Release Date 2036
