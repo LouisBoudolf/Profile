@@ -18,10 +18,10 @@
   - Weight: 165
   - Height:  5’11”
   
-  ### things I like:
-    reading, watching horror movies welding and generally working with my hands (roofing, welding)
-  ### things I don't like:
-    Liver, Indian food
+  ###things I like:
+      Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
+  ###things I don't like:  
+      Liver, Indian food
   
   - Favorite Food: Pizza and Chinese food 
   - Favorite Quote: "do or do not there is no try" Yoda 
