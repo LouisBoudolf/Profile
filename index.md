@@ -18,9 +18,9 @@
   - Weight: 165
   - Height:  5’11”
   
-  things I like:
+  ### things I like:
     reading, watching horror movies welding and generally working with my hands (roofing, welding)
-  things I don't like:
+  ### things I don't like:
     Liver, Indian food
   
   - Favorite Food: Pizza and Chinese food 
@@ -28,7 +28,9 @@
   - Favorite Music: Slayer and old punk rock death metal
   - Favorite Movie: Starwars 
   - Favorite Book: Any fantasy or Horror 
-# Incarceration Details:
+  
+  
+  # Incarceration Details:
 
   - Incarcerated Since 2010
   - Inmate Release Date 2036
