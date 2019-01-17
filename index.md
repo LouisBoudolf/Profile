@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LouisBoudolf/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LouisBoudolf/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - Gender Male
+  - Ethnicity White
+  - Age 44
+  - Sexual Preference Straight
+  - Relationship Status Single
+  - Looking For: A real relationship
+  - My Religion: Not really religious
+  - Highest Level of Education: Highschool Graduate
+  - Hometown: Newark, CA 
+  - Hair:Brown hair
+  - Eyes: Steel Blue
+  - Weight: 165
+  - Height:  5’11”
+  
+  things I like:
+    reading, watching horror movies welding and generally working with my hands (roofing, welding)
+  things I don't like:
+    Liver, Indian food
+  
+  - Favorite Food: Pizza and Chinese food 
+  - Favorite Quote: "do or do not there is no try" Yoda 
+  - Favorite Music: Slayer and old punk rock death metal
+  - Favorite Movie: Starwars 
+  - Favorite Book: Any fantasy or Horror 
+# Incarceration Details:
 
-### Support or Contact
+  - Incarcerated Since 2010
+  - Inmate Release Date 2036
+  - Incarcerated For robbery and assault
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
