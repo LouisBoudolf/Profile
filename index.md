@@ -6,7 +6,7 @@ Po Box 5103. Delano,Ca 93216
 
 
 
-    - Gender: Male  
+   -  Gender: Male  
    Ethnicity: White  
    Age: 44  
    Sexual Preference: Straight  
