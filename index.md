@@ -11,7 +11,7 @@ Po Box 5103. Delano,Ca 93216
    Age: 43  
    Sexual Preference: Straight  
    Relationship Status: Single  
-   Looking For: A real relationship  
+   Looking For: Friendship, Relationship  
    My Religion: Not really religious  
    Highest Level of Education: Highschool Graduate  
    Hometown: Newark, CA  
