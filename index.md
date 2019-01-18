@@ -6,26 +6,26 @@ Po Box 5103. Delano,Ca 93216
 
 
 
-   Gender: Male
-   Ethnicity: White
-   Age: 44
-   Sexual Preference: Straight
-   Relationship Status: Single
+   Gender: Male  
+   Ethnicity: White  
+   Age: 44  
+   Sexual Preference: Straight  
+   Relationship Status: Single  
    Looking For: A real relationship
-   My Religion: Not really religious
-   Highest Level of Education: Highschool Graduate
-   Hometown: Newark, CA 
-   Hair: Brown hair
-   Eyes: Steel Blue
-   Weight: 165 Lbs
-   Height: 5’11”
-  
+   My Religion: Not really religious  
+   Highest Level of Education: Highschool Graduate  
+   Hometown: Newark, CA  
+   Hair: Brown hair  
+   Eyes: Steel Blue  
+   Weight: 165 Lbs  
+   Height: 5’11”  
+     
  **Things I like:**  
    Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
-      
+   
  **Things I don't like:**  
-   Liver, Indian food
- 
+   Liver, Indian food  
+    
   
    Favorite Food: Pizza and Chinese food 
    Favorite Quote: "Do or do not there is no try" Yoda 
