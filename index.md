@@ -8,7 +8,7 @@ Po Box 5103. Delano,Ca 93216
 
    Gender: Male  
    Ethnicity: White  
-   Age: 44  
+   Age: 43  
    Sexual Preference: Straight  
    Relationship Status: Single  
    Looking For: A real relationship  
@@ -20,7 +20,7 @@ Po Box 5103. Delano,Ca 93216
    Weight: 165 Lbs  
    Height: 5’11”  
    
-   Looking for a laid back fun loving woman that has the same interests no drug users please, 
+   Looking for a laid back fun loving woman that has the same interests, no drug users please
    
      
  **Things I like:**  
