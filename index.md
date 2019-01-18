@@ -27,16 +27,17 @@ Po Box 5103. Delano,Ca 93216
    Liver, Indian food  
     
   
-   Favorite Food: Pizza and Chinese food 
-   Favorite Quote: "Do or do not there is no try" Yoda 
-   Favorite Music: Slayer and old punk rock, death metal
-   Favorite Movie: Starwars 
-   Favorite Book: Any fantasy or Horror 
+   Favorite Food: Pizza and Chinese food  
+   Favorite Quote: "Do or do not there is no try" Yoda  
+   Favorite Music: Slayer and old punk rock, death metal  
+   Favorite Movie: Starwars  
+   Favorite Book: Any fantasy or Horror  
+   
+     
+  **Incarceration Details:**  
   
-  
-  **Incarceration Details:**
-
-   Incarcerated Since 2010
-   Inmate Release Date 2036
-   Incarcerated For Robbery and Assault
-
+   Incarcerated Since 2010  
+   Inmate Release Date 2036  
+   Incarcerated For Robbery and Assault  
+   
+ 
