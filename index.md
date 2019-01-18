@@ -19,9 +19,12 @@ Po Box 5103. Delano,Ca 93216
    Eyes: Steel Blue  
    Weight: 165 Lbs  
    Height: 5’11”  
+   
+   Looking for a laid back fun loving woman that has the same interests no drug users please, 
+   
      
  **Things I like:**  
-   Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
+   Reading, riding motorcycles, watching horror movies, and generally working with my hands 
    
  **Things I don't like:**  
    Liver, Indian food  
