@@ -20,14 +20,14 @@ Po Box 5103. Delano,Ca 93216
   - Weight: 165 Lbs
   - Height: 5’11”
   
-  **things I like:**  
-    Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
+ **Things I like:**  
+   Reading, watching horror movies welding and generally working with my hands (roofing, welding)  
       
- **things I don't like:**  
-    Liver, Indian food
+ **Things I don't like:**  
+   Liver, Indian food
  
   
-  - Favorite Food: Pizza and Chinese food 
+   Favorite Food: Pizza and Chinese food 
   - Favorite Quote: "Do or do not there is no try" Yoda 
   - Favorite Music: Slayer and old punk rock, death metal
   - Favorite Movie: Starwars 
