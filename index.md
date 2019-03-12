@@ -1,7 +1,7 @@
 
 <img width="200" height="200" src="https://raw.githubusercontent.com/LouisBoudolf/profile/master/Louis.jpg" />
 
-Louis Boudolf. K-57733. C-5-117L.  
+Louis Boudolf. K-57733. C-3-107L.  
 Po Box 5103. Delano,Ca 93216   
 
 
@@ -17,7 +17,7 @@ Po Box 5103. Delano,Ca 93216
    Hometown: Newark, CA  
    Hair: Brown hair  
    Eyes: Steel Blue  
-   Weight: 165 Lbs  
+   Weight: 180 Lbs  
    Height: 5’11”  
    
    Looking for a laid back fun loving woman that has the same interests, no drug users please
