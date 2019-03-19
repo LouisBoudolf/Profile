@@ -18,7 +18,7 @@ Po Box 5103. Delano,Ca 93216
    Hair: Brown hair  
    Eyes: Steel Blue  
    Weight: 180 Lbs  
-   Height: 5’11”  
+   Height: 6'0"  
    
    Looking for a laid back fun loving woman that has the same interests, no drug users please
    
