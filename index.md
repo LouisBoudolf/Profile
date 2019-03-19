@@ -12,7 +12,7 @@ Po Box 5103. Delano,Ca 93216
    Sexual Preference: Straight  
    Relationship Status: Single  
    Looking For: Friendship, Relationship  
-   My Religion: Not really religious  
+   My Religion: N/A  
    Highest Level of Education: Highschool Graduate  
    Hometown: Newark, CA  
    Hair: Brown hair  
@@ -27,7 +27,7 @@ Po Box 5103. Delano,Ca 93216
    Reading, riding motorcycles, watching horror movies, and generally working with my hands 
    
  **Things I don't like:**  
-   Liver, Indian food  
+   Liver, Printed t-shirts as it takes the attention away from your face.  
     
   
    Favorite Food: Pizza and Chinese food  
@@ -43,4 +43,5 @@ Po Box 5103. Delano,Ca 93216
    Inmate Release Date 2036  
    Incarcerated For Robbery and Assault  
    
- 
+  **PS**: You can also e-mail me on https://www.jpay.com/   Just make an account, search by state (California) and enter my 
+  Inmate # (K-57733) and it will add me to your list and we can email back and forth.
