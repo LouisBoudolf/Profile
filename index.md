@@ -43,5 +43,3 @@ Po Box 5103. Delano,Ca 93216
    Inmate Release Date 2036  
    Incarcerated For Robbery and Assault  
    
-  **PS**: You can also e-mail me on https://www.jpay.com/   Just make an account, search by state (California) and enter my 
-  Inmate # (K-57733) and it will add me to your list and we can email back and forth.
